@@ -1,4 +1,4 @@
-# brewdog tap-list cli
+# brewdog tap-list cli :beers:
 
 
 ```bash
